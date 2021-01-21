@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\playground",
+    "\\src\\reducers",
+    "\\src\\routers",
+    "\\src\\selectors",
+    "\\src\\tests",
+    "\\src\\tests\\components"
+  ],
+  "SelectedNode": "\\.babelrc",
+  "PreviewInSolutionExplorer": false
+}
